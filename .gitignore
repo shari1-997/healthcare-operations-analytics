@@ -1,0 +1,30 @@
+# Windows / editor files
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.tmp
+*.bak
+~$*
+
+# Power BI temporary / cache files
+*.pbix.autorecover
+*.pbit.autorecover
+.cache/
+
+# Local secrets / credentials
+.env
+.env.*
+*.pem
+*.p12
+secrets/
+
+# Healthcare-data safety defaults:
+# The CSVs and PBIX can contain row-level patient or transaction data.
+# Keep them out of a public GitHub repo until you have verified the data is
+# synthetic or properly de-identified AND approved for publication.
+/Data/*.csv
+/Power BI/*.pbix
+
+# If the data owner confirms these assets are safe to publish, remove or
+# comment out the two rules immediately above before running `git add`.
