@@ -1,66 +1,32 @@
-# GitHub Upload Guide
+# GitHub publishing and data-safety notes
 
-This guide assumes the project folder already contains the source data, Power BI report, and original SQL scripts on your computer.
+This repository is public and includes the synthetic CSV datasets, Power BI Desktop report, SQL scripts, dashboard screenshots, PDF export, and project documentation.
 
-## 1. Review data privacy before creating a public repository
+## Data included in this portfolio
 
-This is healthcare-themed data. The `.gitignore` excludes `/Data/*.csv` and `/Power BI/*.pbix` by default because those files can contain row-level data. Before changing that setting, confirm that:
+The project owner confirms that the six CSV datasets and the data embedded in the PBIX report are fake/synthetic records created for this portfolio project. The repository includes:
 
-- The dataset is synthetic or properly de-identified.
-- You have permission to publish it.
-- The `.pbix` does not contain hidden confidential data, credentials, or sensitive model content.
-- The SQL load script does not expose personal local file paths or credentials.
+- `Data/` - six CSV files, 18,800 rows in total.
+- `Power BI/` - the four-page Power BI Desktop report.
+- `SQL/` - schema creation, data loading, and repeatable quality checks.
+- `Dashboard Screenshots/` - four page previews.
+- `docs/` - data dictionary, model, DAX measures, validation notes, and portfolio text.
 
-If you cannot confirm those points, leave the CSV and PBIX files excluded. The dashboard screenshots, PDF, SQL documentation, and project explanation can still demonstrate the project.
+## Before making future changes
 
-## 2. Review the folder
+- Do not add real patient records, confidential transactions, passwords, database credentials, API keys, or private connection strings.
+- Keep `.env`, credential files, temporary files, and Power BI autorecovery files out of Git.
+- Review `git status` before committing and confirm that only intended files are staged.
+- If you replace the supplied synthetic data, independently verify that the replacement data is safe and authorized for public release.
+- Update local file paths in `SQL/02_load_data.sql` before running it on another computer. Do not commit personal machine paths.
 
-The root folder should contain:
+## Reproducing the project
 
-- `README.md`
-- `.gitignore`
-- `Healthcare Operations Analytics Dashboard.pdf`
-- `Dashboard Screenshots/`
-- `Data/`
-- `Power BI/`
-- `SQL/`
-- `docs/`
+1. Clone or download this repository.
+2. Create the `healthcare_ops` schema by running `SQL/01_schema.sql` in MySQL Workbench.
+3. Update the generic path placeholder in `SQL/02_load_data.sql` to the local `Data/` folder, then run the import script. Enable local-infile support in the client connection if required.
+4. Run `SQL/03_data_quality_checks.sql` and compare the results with `docs/DATA_QUALITY_AND_VALIDATION.md`.
+5. Install Power BI Desktop and the Oracle MySQL Connector/NET driver.
+6. Open the PBIX file from `Power BI/`, connect to your local `healthcare_ops` database, and refresh the report.
 
-Keep your existing `Data/*.csv`, `Power BI/*.pbix`, `SQL/01_schema.sql`, and `SQL/02_load_data.sql` files in their current folders.
-
-## 3. Create the GitHub repository
-
-1. Sign in to GitHub.
-2. Create a new repository named `healthcare-operations-analytics`.
-3. Add a short description such as: `Healthcare operations, billing, and payment analytics using MySQL and Power BI.`
-4. Choose Public only if the material you plan to upload is cleared for public release; otherwise choose Private.
-5. Do not initialize a second README on GitHub if you will push the local project folder that already has one.
-
-## 4. Initialize and push from the project folder
-
-Open PowerShell or Git Bash in the project root. Review `git status` and confirm excluded data files are not staged.
-
-```bash
-git init
-git branch -M main
-git add README.md .gitignore "Healthcare Operations Analytics Dashboard.pdf" "Dashboard Screenshots" docs SQL
-# Review the staged files before committing:
-git status
-git commit -m "Add healthcare operations analytics portfolio project"
-git remote add origin https://github.com/YOUR-USERNAME/healthcare-operations-analytics.git
-git push -u origin main
-```
-
-Replace `YOUR-USERNAME` with your GitHub username. Add the CSV and `.pbix` files only if they have passed the privacy and permission checks above and after you update `.gitignore` intentionally.
-
-## 5. Check the repository after upload
-
-- Open the repository page and confirm the README renders correctly.
-- Open each dashboard screenshot from the README.
-- Confirm the PDF opens.
-- Confirm no passwords, connection strings, local machine paths, or patient-level data were accidentally committed.
-- Keep the local `.pbix` and CSV files backed up separately.
-
-## 6. Add the project to your portfolio
-
-Use the text in `PORTFOLIO_DESCRIPTION.md` for your LinkedIn Projects section or portfolio website. Link to the GitHub repository and the PDF dashboard preview.
+See the root `README.md` for the project overview and `docs/PORTFOLIO_DESCRIPTION.md` for a concise project summary.
