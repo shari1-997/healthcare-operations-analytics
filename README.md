@@ -2,7 +2,7 @@
 
 A portfolio project analyzing healthcare appointment operations, patient demographics, billing activity, and payment collections. The project uses **MySQL** for relational data storage and validation and **Power BI Desktop** for the interactive four-page dashboard.
 
-> **Portfolio / data-safety note:** This is healthcare-themed data. Before making the repository public, confirm that the CSV files and the embedded data inside the `.pbix` are synthetic or properly de-identified and that you have permission to publish them. The included `.gitignore` excludes the six CSV files and the Power BI report by default until that check is completed.
+> **Data note:** The project owner confirms that the six CSV datasets and the embedded data in the Power BI report are synthetic/fake records created for this portfolio project. No real patient records are intended to be included. Do not add real patient information, confidential business records, passwords, or database credentials to this public repository.
 
 ## Dashboard preview
 
@@ -90,7 +90,7 @@ A PDF export of the dashboard is also included: [Healthcare Operations Analytics
     └── GITHUB_UPLOAD_GUIDE.md
 ```
 
-The package contains the documentation, latest dashboard screenshots, PDF export, and an additional SQL validation script. Keep your existing six CSV files, `.pbix`, `01_schema.sql`, and `02_load_data.sql` in the matching folders; these local source files were not uploaded with the PDF and screenshots and are therefore not duplicated in this package.
+The repository includes the six synthetic CSV datasets in `Data/`, the interactive Power BI report in `Power BI/`, the SQL schema/load/validation scripts, four dashboard screenshots, a PDF export, and supporting documentation. The `02_load_data.sql` script uses a generic local-path placeholder; update it to the location of your project folder before running it on your computer.
 
 ## Dataset overview
 
@@ -190,7 +190,7 @@ Run [03_data_quality_checks.sql](SQL/03_data_quality_checks.sql) to repeat the p
 7. Open the `.pbix` file from `Power BI/` and connect to the local MySQL instance (`localhost`) and database (`healthcare_ops`) using your own local credentials. Do not store database passwords in this repository.
 8. Refresh the model and verify the four report pages and slicers.
 
-The `.pbix` file and CSV files may contain row-level records. Publish them only after confirming that the data is synthetic or safely de-identified and approved for public release. If the data is confidential, publish the screenshots, PDF, SQL documentation, and project write-up only.
+The included CSV datasets and `.pbix` are synthetic portfolio assets, as confirmed by the project owner. Anyone adapting this repository should independently verify their own data before publishing. Never include real patient records, confidential data, database passwords, or connection credentials.
 
 ## Documentation
 
