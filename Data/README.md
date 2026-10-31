@@ -1,14 +1,19 @@
 # Data folder
 
-Place the six source CSV files here:
+This folder contains the six synthetic CSV datasets used to build and validate the `healthcare_ops` MySQL schema.
 
-- `appointments.csv` - 8,000 rows
-- `billing.csv` - 5,760 rows
-- `departments.csv` - 10 rows
-- `doctors.csv` - 60 rows
-- `patients.csv` - 1,500 rows
-- `payments.csv` - 3,470 rows
+| File | Rows | Description |
+|---|---:|---|
+| `appointments.csv` | 8,000 | Appointment events and operational outcomes |
+| `billing.csv` | 5,760 | Bill and charge records |
+| `departments.csv` | 10 | Department reference data |
+| `doctors.csv` | 60 | Doctor reference data |
+| `patients.csv` | 1,500 | Synthetic patient demographic and insurance attributes |
+| `payments.csv` | 3,470 | Payment transactions |
+| **Total** | **18,800** | Across all six files |
 
-The combined source row count is 18,800. The project expects the MySQL schema name `healthcare_ops`.
+The project owner confirms that these are fake/synthetic records created for this portfolio project. They are included so others can reproduce the MySQL import, validation queries, and Power BI report.
 
-**Privacy:** These files may contain row-level healthcare-related information. Do not commit them to a public repository unless you have confirmed they are synthetic or properly de-identified and are permitted to publish them. The root `.gitignore` excludes `Data/*.csv` by default.
+Use the scripts in `SQL/` to create and load the `healthcare_ops` schema. Update the local file paths in `SQL/02_load_data.sql` for your own computer before running the import.
+
+**Data safety:** Do not replace these sample files with real patient information or confidential transactions in a public repository. Never include database credentials or connection secrets.
