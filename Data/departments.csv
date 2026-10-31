@@ -1,0 +1,11 @@
+﻿department_id,department_name,service_line,active_flag
+D001,Family Medicine,Primary Care,Y
+D002,Cardiology,Specialty Care,Y
+D003,Orthopedics,Specialty Care,Y
+D004,Pediatrics,Primary Care,Y
+D005,Neurology,Specialty Care,Y
+D006,Dermatology,Specialty Care,Y
+D007,Radiology,Diagnostic Services,Y
+D008,Physical Therapy,Rehabilitation,Y
+D009,Women's Health,Specialty Care,Y
+D010,Urgent Care,Urgent Care,Y

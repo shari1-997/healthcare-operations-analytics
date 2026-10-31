@@ -1,0 +1,1501 @@
+﻿patient_id,age_band,administrative_sex,insurance_plan,home_region,active_flag
+P00001,18-34,Male,Medicaid,West,Y
+P00002,65+,Male,Commercial HMO,East,Y
+P00003,35-49,Male,Commercial HMO,East,Y
+P00004,50-64,Female,Medicare,West,Y
+P00005,35-49,Female,Medicaid,South,Y
+P00006,65+,Female,Commercial PPO,West,Y
+P00007,35-49,Female,Self-pay,West,Y
+P00008,65+,Female,Commercial PPO,Central,Y
+P00009,18-34,Female,Medicaid,East,Y
+P00010,18-34,Male,Commercial HMO,Central,Y
+P00011,35-49,Male,Employer plan,West,Y
+P00012,0-17,Male,Medicaid,North,Y
+P00013,50-64,Male,Commercial PPO,West,Y
+P00014,65+,Female,Medicare,North,Y
+P00015,0-17,Female,Medicare,South,Y
+P00016,65+,Female,Commercial PPO,Central,Y
+P00017,0-17,,Self-pay,Central,Y
+P00018,50-64,Male,Commercial PPO,North,Y
+P00019,35-49,Male,Medicare,West,Y
+P00020,0-17,Male,Medicare,East,Y
+P00021,35-49,Female,Commercial HMO,South,Y
+P00022,35-49,Female,Medicaid,West,Y
+P00023,50-64,Male,Employer plan,South,Y
+P00024,0-17,Unknown,Employer plan,North,Y
+P00025,65+,Female,,West,Y
+P00026,35-49,Female,Medicaid,East,Y
+P00027,35-49,Female,Medicaid,East,Y
+P00028,35-49,Female,Medicaid,West,Y
+P00029,50-64,Male,Commercial PPO,Central,Y
+P00030,18-34,Female,Commercial PPO,Central,Y
+P00031,65+,Female,Commercial PPO,West,Y
+P00032,50-64,Female,Commercial PPO,East,Y
+P00033,50-64,Female,Commercial HMO,West,Y
+P00034,0-17,Male,Medicare,South,Y
+P00035,65+,Female,Employer plan,South,Y
+P00036,35-49,Male,Commercial PPO,West,Y
+P00037,65+,Male,Employer plan,West,Y
+P00038,65+,Female,Employer plan,North,Y
+P00039,18-34,Female,Commercial HMO,South,Y
+P00040,0-17,Male,Commercial PPO,North,Y
+P00041,18-34,Female,Self-pay,Central,Y
+P00042,35-49,Male,Medicaid,West,Y
+P00043,18-34,Male,Medicare,East,Y
+P00044,18-34,Female,Employer plan,Central,N
+P00045,18-34,Male,Medicaid,Central,Y
+P00046,50-64,Male,Medicare,East,Y
+P00047,50-64,Female,Commercial HMO,Central,Y
+P00048,18-34,Female,Commercial PPO,West,Y
+P00049,18-34,Male,Medicare,North,Y
+P00050,50-64,Female,Medicare,Central,Y
+P00051,18-34,Male,Employer plan,North,Y
+P00052,35-49,Female,Medicare,East,Y
+P00053,18-34,Male,Commercial PPO,West,Y
+P00054,50-64,Female,Medicare,North,Y
+P00055,50-64,Female,Medicare,South,Y
+P00056,18-34,Female,Commercial HMO,North,Y
+P00057,18-34,Male,Commercial HMO,South,Y
+P00058,35-49,Female,Medicaid,North,Y
+P00059,50-64,Female,Medicare,West,Y
+P00060,0-17,Male,Medicare,South,Y
+P00061,65+,Male,Medicare,North,Y
+P00062,35-49,Male,Medicare,West,Y
+P00063,0-17,Male,Medicaid,North,Y
+P00064,65+,Male,Commercial PPO,East,Y
+P00065,50-64,Male,Commercial PPO,South,Y
+P00066,35-49,Female,Commercial PPO,West,Y
+P00067,35-49,Male,Commercial PPO,East,Y
+P00068,35-49,Male,Medicare,North,Y
+P00069,18-34,Female,Commercial PPO,North,Y
+P00070,18-34,Female,Employer plan,East,Y
+P00071,50-64,Male,Employer plan,East,Y
+P00072,0-17,Male,Commercial PPO,North,Y
+P00073,18-34,Male,Medicare,West,Y
+P00074,18-34,Female,Commercial PPO,Central,Y
+P00075,35-49,Male,Commercial HMO,Central,Y
+P00076,35-49,Male,Medicaid,South,Y
+P00077,0-17,Male,Commercial HMO,East,Y
+P00078,0-17,Female,Medicaid,South,Y
+P00079,35-49,Unknown,Medicare,South,Y
+P00080,18-34,Female,Medicare,West,Y
+P00081,35-49,Female,Medicaid,South,Y
+P00082,50-64,Female,Commercial PPO,Central,Y
+P00083,0-17,Male,Commercial PPO,North,Y
+P00084,35-49,Male,Commercial PPO,South,Y
+P00085,18-34,Male,Commercial HMO,West,Y
+P00086,18-34,Female,Medicare,South,Y
+P00087,65+,Male,Medicare,East,Y
+P00088,0-17,Male,Commercial HMO,North,Y
+P00089,65+,Male,Employer plan,Central,Y
+P00090,35-49,Male,Commercial HMO,South,N
+P00091,18-34,Female,Employer plan,West,Y
+P00092,50-64,Male,Medicaid,West,Y
+P00093,50-64,Female,Commercial HMO,East,Y
+P00094,18-34,Male,Medicare,West,Y
+P00095,0-17,Female,Commercial HMO,West,Y
+P00096,65+,Female,Commercial PPO,South,Y
+P00097,18-34,Female,Commercial PPO,North,Y
+P00098,18-34,Female,Commercial PPO,East,Y
+P00099,35-49,Female,Commercial HMO,South,Y
+P00100,35-49,Male,Medicare,West,Y
+P00101,50-64,Male,Medicare,West,Y
+P00102,18-34,Male,Commercial PPO,West,Y
+P00103,18-34,Female,Commercial PPO,South,Y
+P00104,18-34,Female,Commercial PPO,East,Y
+P00105,35-49,Female,Commercial PPO,South,Y
+P00106,0-17,Unknown,Medicaid,East,Y
+P00107,18-34,Female,Medicaid,East,Y
+P00108,50-64,Female,Medicaid,West,Y
+P00109,0-17,Male,Medicaid,South,Y
+P00110,35-49,Female,Employer plan,South,Y
+P00111,0-17,Unknown,Commercial HMO,East,Y
+P00112,0-17,Female,Medicare,North,Y
+P00113,35-49,Female,Employer plan,East,Y
+P00114,65+,Female,Commercial PPO,North,Y
+P00115,50-64,Female,Commercial PPO,Central,Y
+P00116,35-49,Female,Medicare,North,Y
+P00117,18-34,Female,Commercial PPO,South,Y
+P00118,0-17,Male,Commercial PPO,North,Y
+P00119,35-49,Female,Medicare,West,Y
+P00120,65+,Male,Employer plan,North,Y
+P00121,35-49,Male,Commercial PPO,West,Y
+P00122,50-64,Male,Commercial HMO,West,Y
+P00123,50-64,Female,Medicare,South,Y
+P00124,35-49,Female,Commercial HMO,Central,Y
+P00125,35-49,Female,Employer plan,Central,Y
+P00126,35-49,Male,Commercial HMO,Central,Y
+P00127,50-64,Male,Commercial PPO,North,Y
+P00128,35-49,Male,Commercial PPO,North,Y
+P00129,50-64,Female,Employer plan,West,Y
+P00130,0-17,Female,Medicare,South,Y
+P00131,35-49,Female,Medicare,North,Y
+P00132,50-64,Male,Self-pay,North,Y
+P00133,50-64,Male,Commercial HMO,East,Y
+P00134,35-49,Female,Commercial HMO,West,Y
+P00135,0-17,Female,Medicaid,Central,Y
+P00136,50-64,Male,Employer plan,South,Y
+P00137,18-34,Female,Commercial PPO,Central,Y
+P00138,65+,Male,Medicare,Central,Y
+P00139,50-64,Male,Self-pay,North,Y
+P00140,18-34,Female,Medicare,South,Y
+P00141,35-49,Male,Medicaid,Central,Y
+P00142,18-34,Female,Commercial PPO,Central,Y
+P00143,50-64,Female,Commercial HMO,North,Y
+P00144,18-34,Male,Medicaid,Central,Y
+P00145,35-49,Female,Medicare,Central,N
+P00146,50-64,Unknown,Commercial PPO,South,Y
+P00147,35-49,Male,Commercial HMO,Central,Y
+P00148,0-17,Unknown,Commercial PPO,East,Y
+P00149,18-34,Male,Employer plan,East,Y
+P00150,50-64,Female,Medicaid,West,Y
+P00151,65+,Male,Medicare,North,Y
+P00152,35-49,Female,Medicaid,North,Y
+P00153,65+,Male,Commercial PPO,South,Y
+P00154,65+,Female,Commercial HMO,Central,Y
+P00155,18-34,Male,Commercial PPO,West,Y
+P00156,18-34,Male,Commercial HMO,East,Y
+P00157,18-34,Male,Employer plan,West,Y
+P00158,35-49,Female,Commercial PPO,Central,Y
+P00159,50-64,Female,Medicare,Central,Y
+P00160,65+,Male,Medicare,West,Y
+P00161,65+,Unknown,Commercial PPO,North,Y
+P00162,0-17,Female,Employer plan,South,Y
+P00163,18-34,Female,Commercial PPO,South,Y
+P00164,18-34,Female,Medicare,North,Y
+P00165,18-34,Female,Medicaid,West,Y
+P00166,35-49,Female,Commercial PPO,North,Y
+P00167,18-34,Male,Medicaid,Central,Y
+P00168,0-17,Male,Medicaid,South,Y
+P00169,18-34,Female,Commercial HMO,North,Y
+P00170,35-49,Male,Medicare,Central,Y
+P00171,65+,Male,Self-pay,North,Y
+P00172,65+,Male,Commercial PPO,South,Y
+P00173,35-49,Female,Commercial PPO,South,Y
+P00174,65+,Female,Medicaid,North,Y
+P00175,35-49,Male,Commercial PPO,Central,Y
+P00176,65+,Female,Commercial HMO,North,Y
+P00177,35-49,Female,Employer plan,Central,Y
+P00178,65+,Female,Commercial HMO,West,Y
+P00179,65+,Female,Medicare,West,Y
+P00180,65+,Male,Self-pay,Central,Y
+P00181,18-34,Female,Self-pay,North,Y
+P00182,0-17,Female,Employer plan,Central,Y
+P00183,0-17,Male,Commercial PPO,North,Y
+P00184,65+,Female,Medicaid,North,Y
+P00185,0-17,Female,Commercial HMO,West,Y
+P00186,0-17,Female,Commercial HMO,West,Y
+P00187,35-49,Male,Commercial PPO,Central,Y
+P00188,65+,Male,Employer plan,Central,Y
+P00189,65+,Male,Medicaid,Central,Y
+P00190,35-49,Male,Medicare,Central,Y
+P00191,50-64,Male,Self-pay,East,Y
+P00192,35-49,Female,Medicaid,West,Y
+P00193,65+,Male,Medicaid,North,Y
+P00194,0-17,Female,Employer plan,East,Y
+P00195,50-64,Female,Commercial HMO,North,Y
+P00196,50-64,Male,Self-pay,South,Y
+P00197,50-64,Male,Commercial PPO,South,Y
+P00198,18-34,Female,Medicaid,North,Y
+P00199,35-49,Male,Medicare,South,Y
+P00200,35-49,Male,Medicaid,Central,Y
+P00201,50-64,Female,Medicaid,West,Y
+P00202,35-49,Female,Commercial PPO,Central,Y
+P00203,18-34,Female,Commercial HMO,North,Y
+P00204,18-34,Female,Medicaid,Central,Y
+P00205,65+,Male,Commercial PPO,East,Y
+P00206,18-34,Female,Employer plan,South,Y
+P00207,0-17,Female,Commercial PPO,East,Y
+P00208,18-34,Female,Commercial HMO,North,Y
+P00209,18-34,Male,Self-pay,North,Y
+P00210,65+,Female,Medicare,East,Y
+P00211,35-49,Female,Commercial PPO,North,Y
+P00212,35-49,Female,Medicare,West,Y
+P00213,50-64,Male,Commercial PPO,North,Y
+P00214,35-49,Male,Employer plan,South,Y
+P00215,18-34,Female,Employer plan,North,Y
+P00216,65+,Male,Employer plan,West,Y
+P00217,0-17,Male,Medicare,North,Y
+P00218,65+,Male,Medicaid,West,Y
+P00219,50-64,Male,Employer plan,Central,Y
+P00220,18-34,Male,Self-pay,North,Y
+P00221,35-49,Male,Self-pay,North,Y
+P00222,18-34,Male,Medicaid,North,Y
+P00223,35-49,Female,Medicaid,South,Y
+P00224,65+,Female,Employer plan,West,Y
+P00225,35-49,Male,Commercial HMO,West,Y
+P00226,65+,Female,Commercial PPO,Central,Y
+P00227,65+,Female,Employer plan,Central,Y
+P00228,65+,Male,Medicaid,East,Y
+P00229,0-17,Male,Commercial PPO,East,Y
+P00230,65+,Male,Medicare,West,Y
+P00231,18-34,Male,Commercial PPO,Central,Y
+P00232,65+,Female,Employer plan,North,N
+P00233,18-34,Female,Medicaid,East,Y
+P00234,65+,Male,Medicare,North,Y
+P00235,35-49,Male,Self-pay,North,Y
+P00236,35-49,Female,Commercial PPO,West,Y
+P00237,0-17,Female,Commercial PPO,South,Y
+P00238,50-64,Female,Commercial HMO,East,Y
+P00239,50-64,Female,Self-pay,Central,Y
+P00240,50-64,Female,,Central,Y
+P00241,50-64,Female,Medicare,South,Y
+P00242,18-34,Female,Medicare,North,Y
+P00243,18-34,Male,Commercial HMO,West,N
+P00244,50-64,Male,Medicare,North,Y
+P00245,18-34,Male,Medicaid,South,Y
+P00246,50-64,Male,Commercial PPO,East,Y
+P00247,50-64,Female,Employer plan,South,Y
+P00248,18-34,Male,Employer plan,South,Y
+P00249,18-34,Female,Medicare,East,Y
+P00250,35-49,Female,Employer plan,West,Y
+P00251,50-64,Female,Commercial PPO,East,Y
+P00252,35-49,Female,Medicaid,East,Y
+P00253,0-17,Female,Medicaid,South,Y
+P00254,65+,Female,Medicare,East,Y
+P00255,50-64,Unknown,Employer plan,East,Y
+P00256,35-49,Male,Commercial HMO,South,Y
+P00257,50-64,Female,Employer plan,South,N
+P00258,18-34,Male,Medicaid,East,Y
+P00259,65+,Female,Commercial PPO,South,Y
+P00260,35-49,Female,Medicare,West,Y
+P00261,18-34,Male,Commercial PPO,Central,Y
+P00262,50-64,Male,Medicare,Central,Y
+P00263,35-49,Male,Commercial PPO,West,Y
+P00264,35-49,Male,Commercial PPO,Central,Y
+P00265,65+,Male,Medicaid,East,Y
+P00266,35-49,Female,Commercial PPO,Central,Y
+P00267,65+,Female,Commercial HMO,Central,Y
+P00268,35-49,Female,Commercial HMO,South,Y
+P00269,0-17,Female,Medicare,South,Y
+P00270,50-64,Male,Medicaid,East,Y
+P00271,0-17,Female,Medicaid,West,Y
+P00272,35-49,Female,Medicare,Central,Y
+P00273,0-17,Unknown,Medicaid,Central,Y
+P00274,50-64,Female,Medicare,Central,Y
+P00275,35-49,Male,Medicaid,Central,Y
+P00276,35-49,Female,Employer plan,West,Y
+P00277,65+,Male,Employer plan,West,Y
+P00278,18-34,Male,Self-pay,South,Y
+P00279,35-49,Female,Commercial PPO,West,Y
+P00280,18-34,Male,Commercial HMO,North,Y
+P00281,18-34,Male,Commercial HMO,Central,Y
+P00282,18-34,Male,Commercial PPO,Central,Y
+P00283,35-49,Male,Medicare,South,Y
+P00284,18-34,Female,Self-pay,North,Y
+P00285,65+,Female,Medicare,South,Y
+P00286,65+,Female,Commercial HMO,East,Y
+P00287,50-64,Female,Commercial PPO,East,Y
+P00288,65+,Female,Employer plan,Central,Y
+P00289,65+,Female,Employer plan,North,Y
+P00290,0-17,Female,Commercial PPO,North,Y
+P00291,0-17,Male,Self-pay,Central,Y
+P00292,18-34,Male,Commercial PPO,North,Y
+P00293,35-49,Male,Commercial HMO,East,Y
+P00294,35-49,Male,Medicare,West,Y
+P00295,65+,Male,Commercial PPO,North,Y
+P00296,35-49,Female,Commercial PPO,East,Y
+P00297,18-34,Female,Medicaid,Central,Y
+P00298,18-34,Male,Self-pay,North,Y
+P00299,0-17,Female,Medicare,South,Y
+P00300,50-64,Female,Medicaid,South,Y
+P00301,18-34,Female,Medicaid,North,Y
+P00302,35-49,Male,Medicaid,West,Y
+P00303,50-64,Male,Employer plan,Central,Y
+P00304,50-64,Male,Self-pay,South,Y
+P00305,50-64,Male,Medicare,West,Y
+P00306,18-34,Male,Medicare,North,Y
+P00307,35-49,Male,Medicaid,East,Y
+P00308,0-17,Female,Employer plan,North,Y
+P00309,18-34,Male,Medicare,West,Y
+P00310,18-34,Female,Medicare,East,Y
+P00311,18-34,Male,Medicaid,East,Y
+P00312,65+,Unknown,Self-pay,East,Y
+P00313,50-64,Male,Self-pay,West,Y
+P00314,65+,Male,Self-pay,South,Y
+P00315,18-34,Female,,West,Y
+P00316,50-64,Female,,North,Y
+P00317,18-34,Male,Medicare,West,Y
+P00318,18-34,Female,Medicare,East,Y
+P00319,18-34,Female,Medicare,West,Y
+P00320,50-64,Male,Commercial PPO,South,Y
+P00321,18-34,Male,Employer plan,North,Y
+P00322,35-49,Female,Medicaid,North,Y
+P00323,0-17,Female,Medicare,North,Y
+P00324,65+,Female,Medicare,West,Y
+P00325,50-64,Female,Commercial HMO,East,Y
+P00326,18-34,Male,Commercial PPO,West,Y
+P00327,65+,Female,Commercial PPO,South,N
+P00328,50-64,Female,Commercial HMO,North,Y
+P00329,65+,Male,Medicaid,South,Y
+P00330,35-49,Female,Medicaid,South,Y
+P00331,0-17,Male,Medicaid,South,Y
+P00332,65+,Female,Self-pay,East,Y
+P00333,18-34,Female,Commercial HMO,Central,Y
+P00334,18-34,Male,Medicare,East,Y
+P00335,50-64,Male,Commercial HMO,North,N
+P00336,35-49,Unknown,Commercial PPO,East,Y
+P00337,35-49,Male,Medicare,West,Y
+P00338,65+,Male,Medicare,East,Y
+P00339,50-64,Male,Commercial PPO,East,Y
+P00340,0-17,Unknown,Employer plan,South,Y
+P00341,65+,Male,Employer plan,East,Y
+P00342,0-17,Female,Self-pay,North,Y
+P00343,65+,Female,Commercial PPO,Central,Y
+P00344,35-49,Male,Commercial PPO,Central,Y
+P00345,35-49,Female,Commercial HMO,West,Y
+P00346,18-34,Female,Commercial HMO,West,Y
+P00347,18-34,Male,Medicare,Central,Y
+P00348,0-17,Female,Commercial HMO,West,Y
+P00349,18-34,Female,Medicare,East,Y
+P00350,50-64,Female,Self-pay,North,Y
+P00351,0-17,Female,Medicare,Central,Y
+P00352,35-49,Male,Medicare,North,Y
+P00353,65+,Male,,West,Y
+P00354,0-17,Female,Medicaid,North,Y
+P00355,50-64,Female,Commercial HMO,West,Y
+P00356,18-34,Female,Medicare,North,Y
+P00357,18-34,Female,Employer plan,West,Y
+P00358,35-49,Male,Medicare,West,Y
+P00359,35-49,Female,Medicare,South,Y
+P00360,65+,Male,Commercial HMO,Central,Y
+P00361,50-64,Female,Employer plan,Central,Y
+P00362,65+,Female,Commercial PPO,South,Y
+P00363,50-64,Male,Commercial PPO,North,Y
+P00364,0-17,Female,Commercial HMO,East,Y
+P00365,65+,Male,Commercial HMO,Central,Y
+P00366,65+,Female,Commercial HMO,North,Y
+P00367,18-34,Female,Commercial HMO,West,Y
+P00368,50-64,Male,Commercial PPO,East,Y
+P00369,35-49,Male,Commercial HMO,Central,Y
+P00370,50-64,Male,Commercial PPO,South,Y
+P00371,50-64,Female,Commercial PPO,Central,Y
+P00372,50-64,Female,Medicare,North,Y
+P00373,35-49,Unknown,Medicare,West,Y
+P00374,50-64,Male,Medicare,North,Y
+P00375,35-49,Male,Employer plan,North,Y
+P00376,50-64,Male,Employer plan,West,N
+P00377,18-34,Male,Commercial HMO,North,Y
+P00378,65+,Female,Commercial HMO,Central,Y
+P00379,0-17,Male,Medicare,West,Y
+P00380,18-34,Unknown,Medicare,South,Y
+P00381,50-64,Male,Commercial HMO,East,Y
+P00382,50-64,Male,Commercial PPO,West,Y
+P00383,50-64,Unknown,Medicaid,South,N
+P00384,18-34,Female,Commercial HMO,North,Y
+P00385,50-64,Female,Employer plan,North,Y
+P00386,50-64,Female,Commercial HMO,North,Y
+P00387,50-64,Female,Commercial HMO,East,Y
+P00388,35-49,Male,Self-pay,West,Y
+P00389,65+,Male,Commercial PPO,Central,Y
+P00390,50-64,Male,Commercial PPO,Central,Y
+P00391,0-17,Male,Commercial PPO,East,Y
+P00392,35-49,Male,Commercial HMO,East,Y
+P00393,0-17,Male,Self-pay,North,Y
+P00394,50-64,Male,Employer plan,Central,Y
+P00395,18-34,Male,Self-pay,South,Y
+P00396,35-49,Female,Commercial PPO,Central,Y
+P00397,65+,Male,Medicare,East,Y
+P00398,0-17,Male,Self-pay,South,Y
+P00399,65+,Female,Commercial PPO,East,Y
+P00400,18-34,Female,Self-pay,North,Y
+P00401,35-49,Male,Medicaid,South,Y
+P00402,50-64,Female,Employer plan,West,Y
+P00403,50-64,Female,Commercial HMO,West,Y
+P00404,0-17,Male,Medicaid,West,Y
+P00405,50-64,Male,Commercial HMO,West,Y
+P00406,35-49,Male,Commercial PPO,East,Y
+P00407,65+,Female,Employer plan,South,Y
+P00408,35-49,Female,Employer plan,East,Y
+P00409,65+,Male,Employer plan,South,Y
+P00410,0-17,Female,Employer plan,South,Y
+P00411,65+,Female,Commercial PPO,South,Y
+P00412,18-34,Female,Employer plan,East,N
+P00413,50-64,Male,Commercial PPO,North,Y
+P00414,35-49,Female,Self-pay,West,Y
+P00415,65+,Female,Employer plan,South,Y
+P00416,35-49,Male,Commercial HMO,East,Y
+P00417,0-17,Male,Commercial HMO,South,Y
+P00418,18-34,Female,Commercial HMO,East,Y
+P00419,0-17,Female,Medicaid,Central,Y
+P00420,35-49,Female,Medicaid,East,Y
+P00421,35-49,Male,Medicare,West,Y
+P00422,35-49,Male,Medicare,North,N
+P00423,50-64,Female,Medicare,East,Y
+P00424,35-49,Male,Medicaid,North,Y
+P00425,65+,Male,Self-pay,South,Y
+P00426,0-17,Male,Medicaid,South,Y
+P00427,65+,Male,Medicare,North,Y
+P00428,35-49,Male,Employer plan,South,Y
+P00429,35-49,Male,Commercial PPO,East,Y
+P00430,50-64,Male,Medicaid,West,Y
+P00431,50-64,Female,Commercial HMO,West,Y
+P00432,65+,Male,Commercial PPO,North,Y
+P00433,35-49,Male,Employer plan,West,Y
+P00434,18-34,Female,Medicare,North,Y
+P00435,35-49,Male,Medicaid,West,Y
+P00436,18-34,Female,Medicaid,South,Y
+P00437,18-34,Female,Commercial PPO,West,Y
+P00438,18-34,Male,Commercial HMO,Central,Y
+P00439,18-34,Unknown,Commercial PPO,South,Y
+P00440,0-17,Female,Commercial HMO,East,Y
+P00441,18-34,Female,Medicare,Central,Y
+P00442,50-64,Male,Employer plan,North,Y
+P00443,50-64,Female,Self-pay,East,Y
+P00444,18-34,Female,Employer plan,East,Y
+P00445,18-34,Female,Self-pay,East,Y
+P00446,65+,Female,Medicare,South,Y
+P00447,35-49,Female,Medicare,South,Y
+P00448,65+,Female,Medicaid,South,Y
+P00449,35-49,Female,Medicare,West,Y
+P00450,50-64,Female,Medicare,West,Y
+P00451,0-17,Female,Employer plan,North,Y
+P00452,65+,Male,Medicaid,Central,Y
+P00453,35-49,Female,Medicaid,North,Y
+P00454,65+,Female,Commercial HMO,South,Y
+P00455,0-17,Female,Self-pay,Central,Y
+P00456,35-49,Female,Commercial PPO,South,N
+P00457,35-49,Male,Commercial PPO,South,Y
+P00458,18-34,Male,Self-pay,Central,N
+P00459,35-49,Female,Commercial PPO,North,Y
+P00460,35-49,Female,Employer plan,East,Y
+P00461,35-49,Female,Medicare,East,Y
+P00462,65+,Female,Commercial PPO,West,Y
+P00463,35-49,Female,Commercial PPO,Central,Y
+P00464,50-64,Female,Medicare,East,Y
+P00465,65+,,Commercial PPO,West,Y
+P00466,65+,Male,Commercial PPO,East,Y
+P00467,35-49,Female,Commercial HMO,North,Y
+P00468,50-64,,Employer plan,North,Y
+P00469,50-64,Male,Medicaid,Central,Y
+P00470,35-49,Female,Commercial HMO,North,Y
+P00471,65+,Female,Employer plan,West,Y
+P00472,50-64,Female,Commercial HMO,East,Y
+P00473,35-49,Male,Medicaid,South,Y
+P00474,65+,Female,Commercial HMO,West,Y
+P00475,35-49,Female,Medicaid,Central,Y
+P00476,35-49,Male,Commercial HMO,Central,Y
+P00477,18-34,Male,Employer plan,North,Y
+P00478,50-64,Male,Medicare,Central,Y
+P00479,18-34,Female,Commercial PPO,West,Y
+P00480,35-49,Male,Commercial PPO,West,Y
+P00481,18-34,Female,Commercial PPO,Central,Y
+P00482,18-34,Female,Medicaid,South,Y
+P00483,18-34,Male,Commercial PPO,North,Y
+P00484,35-49,Male,Self-pay,East,Y
+P00485,18-34,Female,Medicare,North,Y
+P00486,35-49,Female,Employer plan,North,Y
+P00487,65+,Female,Commercial PPO,North,Y
+P00488,18-34,Female,Employer plan,West,Y
+P00489,35-49,Male,,North,Y
+P00490,50-64,Male,Medicare,South,Y
+P00491,65+,Male,Commercial PPO,South,Y
+P00492,50-64,Female,Medicare,North,Y
+P00493,50-64,Female,Commercial PPO,Central,Y
+P00494,35-49,Female,Commercial HMO,East,Y
+P00495,50-64,Male,Commercial PPO,East,Y
+P00496,18-34,Female,Commercial PPO,Central,Y
+P00497,18-34,Female,Medicare,Central,Y
+P00498,18-34,Female,Medicaid,Central,Y
+P00499,35-49,Female,Employer plan,East,Y
+P00500,50-64,Male,Medicare,West,Y
+P00501,65+,Female,Commercial PPO,Central,Y
+P00502,35-49,Male,Employer plan,North,Y
+P00503,35-49,Female,Self-pay,East,Y
+P00504,0-17,Male,Medicare,East,Y
+P00505,18-34,Male,Commercial PPO,West,Y
+P00506,50-64,Female,Commercial PPO,North,Y
+P00507,65+,Female,Self-pay,North,Y
+P00508,0-17,Female,Self-pay,South,Y
+P00509,35-49,Female,Commercial PPO,East,Y
+P00510,18-34,Male,Medicare,Central,N
+P00511,18-34,Female,Commercial HMO,West,Y
+P00512,18-34,Male,Medicare,South,Y
+P00513,35-49,Male,Commercial PPO,East,Y
+P00514,0-17,Male,Medicare,North,Y
+P00515,18-34,Female,Medicare,East,Y
+P00516,65+,Female,Self-pay,West,Y
+P00517,35-49,Female,Medicare,South,Y
+P00518,18-34,Male,Commercial PPO,East,Y
+P00519,18-34,Female,Medicare,Central,Y
+P00520,35-49,Unknown,Employer plan,North,Y
+P00521,18-34,Male,Commercial PPO,West,Y
+P00522,65+,Male,Commercial HMO,South,Y
+P00523,0-17,Female,Commercial PPO,Central,Y
+P00524,50-64,Male,Commercial PPO,South,Y
+P00525,18-34,Female,Medicare,East,Y
+P00526,35-49,Female,Medicaid,Central,Y
+P00527,18-34,Male,Commercial PPO,Central,Y
+P00528,50-64,Male,Commercial PPO,Central,Y
+P00529,18-34,Female,Medicare,Central,Y
+P00530,0-17,Female,Commercial PPO,North,Y
+P00531,65+,Female,Commercial HMO,Central,Y
+P00532,35-49,Female,Self-pay,North,Y
+P00533,0-17,Female,Employer plan,East,Y
+P00534,18-34,Male,Medicaid,West,Y
+P00535,0-17,Female,Employer plan,West,Y
+P00536,50-64,Male,Commercial PPO,North,Y
+P00537,65+,Male,Commercial PPO,North,Y
+P00538,50-64,Female,Commercial PPO,South,N
+P00539,35-49,Female,Commercial HMO,Central,Y
+P00540,35-49,Male,Medicaid,Central,Y
+P00541,18-34,Male,Employer plan,South,Y
+P00542,50-64,Female,Employer plan,Central,Y
+P00543,0-17,Male,Commercial PPO,North,Y
+P00544,0-17,Female,Commercial PPO,Central,Y
+P00545,50-64,Male,Medicaid,Central,Y
+P00546,18-34,Male,Commercial PPO,North,Y
+P00547,35-49,Female,Self-pay,East,Y
+P00548,65+,Female,Commercial HMO,West,Y
+P00549,65+,Female,Medicare,Central,Y
+P00550,35-49,Male,,South,Y
+P00551,50-64,Male,Commercial PPO,Central,Y
+P00552,65+,Female,Medicare,South,Y
+P00553,35-49,Female,Medicaid,West,Y
+P00554,35-49,Male,Medicare,West,Y
+P00555,18-34,Unknown,Commercial PPO,West,Y
+P00556,0-17,Female,Commercial PPO,Central,Y
+P00557,0-17,Female,Medicare,South,Y
+P00558,65+,Female,Medicare,East,Y
+P00559,65+,Female,Medicaid,South,Y
+P00560,50-64,Female,Medicare,South,Y
+P00561,50-64,Female,Medicaid,Central,Y
+P00562,65+,Female,Medicare,Central,Y
+P00563,18-34,Female,Employer plan,North,Y
+P00564,18-34,Female,Commercial HMO,Central,Y
+P00565,35-49,Female,Employer plan,North,Y
+P00566,18-34,Female,Self-pay,West,Y
+P00567,18-34,Female,Medicare,West,Y
+P00568,65+,Female,Self-pay,South,Y
+P00569,65+,Male,Medicare,South,Y
+P00570,18-34,Male,Medicare,Central,Y
+P00571,35-49,Male,Self-pay,North,Y
+P00572,18-34,,Commercial PPO,East,Y
+P00573,35-49,Female,Medicare,East,Y
+P00574,0-17,Female,Medicare,South,Y
+P00575,65+,Female,Self-pay,North,Y
+P00576,50-64,Female,Commercial HMO,East,Y
+P00577,35-49,Female,Medicare,South,Y
+P00578,18-34,Male,,North,Y
+P00579,18-34,Female,Medicare,Central,Y
+P00580,50-64,Female,Commercial PPO,South,Y
+P00581,0-17,Female,Medicare,North,Y
+P00582,50-64,Female,Employer plan,East,Y
+P00583,65+,Male,Commercial PPO,East,Y
+P00584,65+,Male,Commercial HMO,East,Y
+P00585,18-34,Male,Commercial PPO,North,Y
+P00586,18-34,Female,Commercial HMO,North,Y
+P00587,18-34,Female,Medicaid,West,Y
+P00588,18-34,Female,Self-pay,North,Y
+P00589,18-34,Female,Self-pay,Central,Y
+P00590,18-34,Male,Commercial HMO,West,Y
+P00591,50-64,Male,Medicare,South,Y
+P00592,35-49,Female,Medicare,South,Y
+P00593,35-49,Unknown,Commercial PPO,West,Y
+P00594,18-34,Male,Medicare,South,Y
+P00595,50-64,Male,Medicaid,Central,Y
+P00596,65+,Male,Medicare,Central,Y
+P00597,35-49,Male,Medicare,South,Y
+P00598,65+,Male,Commercial PPO,West,Y
+P00599,18-34,Male,Medicaid,North,Y
+P00600,0-17,Male,Commercial PPO,North,Y
+P00601,50-64,Male,Commercial PPO,East,Y
+P00602,35-49,Female,Medicare,Central,N
+P00603,50-64,Male,Medicaid,East,Y
+P00604,0-17,Female,Medicare,East,Y
+P00605,65+,Male,Medicare,North,Y
+P00606,0-17,Female,Medicare,North,Y
+P00607,18-34,Female,Medicaid,West,Y
+P00608,18-34,Female,Commercial HMO,Central,Y
+P00609,35-49,Male,Commercial PPO,East,Y
+P00610,35-49,Female,Commercial PPO,North,Y
+P00611,35-49,Male,Commercial HMO,West,Y
+P00612,65+,Female,Self-pay,Central,Y
+P00613,35-49,Male,Medicare,Central,N
+P00614,65+,Female,Medicaid,South,Y
+P00615,50-64,Male,Commercial PPO,Central,Y
+P00616,35-49,Male,Commercial HMO,North,Y
+P00617,18-34,Female,Self-pay,South,Y
+P00618,65+,Male,Employer plan,North,Y
+P00619,65+,Female,Medicaid,Central,Y
+P00620,35-49,Female,Self-pay,North,Y
+P00621,65+,Male,Commercial PPO,Central,Y
+P00622,65+,Male,Medicare,East,Y
+P00623,65+,Female,,South,Y
+P00624,65+,Female,Medicaid,West,Y
+P00625,18-34,Male,Medicaid,Central,Y
+P00626,35-49,Female,Commercial PPO,East,Y
+P00627,18-34,Female,Employer plan,East,Y
+P00628,35-49,Female,Employer plan,West,Y
+P00629,18-34,Female,Commercial PPO,West,Y
+P00630,35-49,Female,Employer plan,South,N
+P00631,65+,Female,Medicare,East,Y
+P00632,0-17,Female,Commercial PPO,South,Y
+P00633,50-64,Female,Medicaid,West,Y
+P00634,0-17,Male,Employer plan,Central,Y
+P00635,65+,Female,Employer plan,Central,Y
+P00636,35-49,Male,Commercial PPO,Central,Y
+P00637,0-17,Female,Medicare,West,Y
+P00638,35-49,Female,Medicaid,West,Y
+P00639,65+,Male,Commercial PPO,West,Y
+P00640,35-49,Female,Medicaid,West,Y
+P00641,35-49,Male,Self-pay,Central,Y
+P00642,35-49,Male,Self-pay,Central,Y
+P00643,65+,Female,Medicare,West,Y
+P00644,18-34,Female,Self-pay,Central,Y
+P00645,50-64,Male,Commercial PPO,West,Y
+P00646,18-34,Female,Commercial PPO,Central,Y
+P00647,50-64,Female,Commercial PPO,West,Y
+P00648,65+,Female,Employer plan,East,Y
+P00649,35-49,Female,Commercial PPO,South,Y
+P00650,0-17,Male,Medicaid,East,Y
+P00651,50-64,Unknown,Commercial PPO,South,Y
+P00652,50-64,Male,Commercial PPO,Central,Y
+P00653,65+,Female,Commercial HMO,East,Y
+P00654,18-34,Female,Commercial HMO,East,Y
+P00655,0-17,Female,Employer plan,East,Y
+P00656,35-49,Female,Medicaid,North,Y
+P00657,0-17,Male,Medicaid,East,Y
+P00658,0-17,Male,,East,Y
+P00659,35-49,Male,Commercial PPO,West,Y
+P00660,35-49,Female,Medicaid,Central,Y
+P00661,50-64,Female,Medicare,North,Y
+P00662,18-34,Male,Self-pay,Central,Y
+P00663,0-17,Female,Medicare,South,Y
+P00664,35-49,Male,Medicaid,North,Y
+P00665,35-49,Female,Commercial PPO,North,Y
+P00666,35-49,Unknown,Commercial PPO,North,Y
+P00667,18-34,Female,Employer plan,Central,N
+P00668,18-34,Female,Commercial HMO,Central,Y
+P00669,0-17,Female,Medicaid,West,Y
+P00670,50-64,Male,Commercial HMO,East,Y
+P00671,0-17,Female,Commercial PPO,North,Y
+P00672,18-34,Male,Employer plan,Central,Y
+P00673,18-34,Male,Medicaid,South,Y
+P00674,18-34,Male,Commercial HMO,South,Y
+P00675,18-34,Male,Commercial PPO,East,Y
+P00676,35-49,Female,Commercial PPO,North,Y
+P00677,18-34,Male,Commercial HMO,South,Y
+P00678,50-64,Unknown,Commercial PPO,West,Y
+P00679,50-64,Female,Commercial PPO,East,Y
+P00680,65+,Male,Medicare,North,Y
+P00681,35-49,Female,Medicare,North,Y
+P00682,65+,Female,Self-pay,Central,Y
+P00683,50-64,Female,Self-pay,Central,Y
+P00684,35-49,Female,Medicare,South,Y
+P00685,50-64,Male,Commercial PPO,North,Y
+P00686,50-64,Female,Medicaid,East,Y
+P00687,35-49,Male,Medicaid,East,Y
+P00688,35-49,Female,Medicare,West,Y
+P00689,18-34,Male,Employer plan,Central,Y
+P00690,35-49,Male,Medicaid,Central,Y
+P00691,35-49,Male,Commercial PPO,South,Y
+P00692,18-34,Male,Medicare,West,Y
+P00693,35-49,Female,Self-pay,West,Y
+P00694,18-34,Male,Commercial HMO,East,Y
+P00695,18-34,,Medicaid,West,Y
+P00696,65+,Female,Employer plan,North,Y
+P00697,50-64,Female,Medicare,East,Y
+P00698,65+,Female,Medicaid,Central,Y
+P00699,65+,Male,Medicare,Central,Y
+P00700,18-34,Male,Commercial PPO,West,Y
+P00701,18-34,Female,Employer plan,East,Y
+P00702,35-49,Female,Medicare,North,Y
+P00703,0-17,Female,Medicaid,East,Y
+P00704,50-64,Male,Commercial PPO,Central,Y
+P00705,35-49,Male,Commercial HMO,Central,Y
+P00706,35-49,Female,Medicare,Central,Y
+P00707,35-49,Female,Commercial PPO,South,Y
+P00708,35-49,Male,Medicare,East,Y
+P00709,65+,Female,Medicare,West,Y
+P00710,18-34,Female,Self-pay,North,Y
+P00711,18-34,Male,Medicaid,South,Y
+P00712,65+,Female,Medicare,West,Y
+P00713,65+,Male,Commercial PPO,Central,Y
+P00714,18-34,Female,Employer plan,East,Y
+P00715,0-17,Female,Employer plan,Central,Y
+P00716,18-34,Female,Employer plan,Central,Y
+P00717,0-17,Male,Employer plan,North,Y
+P00718,35-49,Female,Employer plan,Central,Y
+P00719,65+,Female,Employer plan,Central,Y
+P00720,50-64,Female,Medicare,North,Y
+P00721,65+,Male,Medicare,Central,Y
+P00722,50-64,Female,Medicaid,East,Y
+P00723,0-17,Female,Employer plan,South,Y
+P00724,35-49,Female,Self-pay,West,Y
+P00725,35-49,Male,Employer plan,South,Y
+P00726,50-64,Female,Commercial HMO,North,Y
+P00727,50-64,Female,Employer plan,East,Y
+P00728,50-64,Male,Commercial PPO,East,Y
+P00729,18-34,Female,Medicare,Central,Y
+P00730,65+,Female,Commercial PPO,South,Y
+P00731,18-34,Female,Medicaid,Central,Y
+P00732,50-64,Male,Self-pay,Central,Y
+P00733,50-64,Female,Commercial PPO,East,Y
+P00734,65+,Male,Medicare,East,Y
+P00735,35-49,Male,Commercial HMO,South,Y
+P00736,65+,Male,Medicare,Central,Y
+P00737,35-49,Male,Medicare,North,Y
+P00738,65+,Female,Self-pay,South,Y
+P00739,0-17,Female,Medicaid,North,Y
+P00740,50-64,Male,Commercial HMO,West,Y
+P00741,50-64,Male,Commercial PPO,West,Y
+P00742,65+,Female,Medicaid,North,Y
+P00743,35-49,Male,Commercial PPO,East,Y
+P00744,65+,Male,Commercial PPO,Central,Y
+P00745,35-49,Male,Medicare,Central,Y
+P00746,35-49,Female,Commercial PPO,East,Y
+P00747,50-64,Female,Commercial HMO,Central,Y
+P00748,18-34,Female,Self-pay,West,Y
+P00749,35-49,Male,Medicare,East,Y
+P00750,0-17,Male,Commercial PPO,West,Y
+P00751,35-49,Female,Medicaid,East,Y
+P00752,18-34,Female,Commercial HMO,Central,Y
+P00753,35-49,Male,Medicaid,North,N
+P00754,35-49,Female,Commercial PPO,Central,Y
+P00755,50-64,Female,Medicaid,West,Y
+P00756,35-49,Male,Commercial HMO,South,Y
+P00757,65+,Female,Commercial PPO,East,Y
+P00758,18-34,Male,Medicare,North,Y
+P00759,50-64,Female,Commercial PPO,South,Y
+P00760,18-34,Male,Commercial PPO,West,Y
+P00761,65+,Male,Self-pay,West,Y
+P00762,0-17,Male,Commercial PPO,Central,Y
+P00763,35-49,Female,Medicare,East,Y
+P00764,65+,Male,Medicaid,Central,Y
+P00765,65+,Male,Self-pay,Central,Y
+P00766,65+,Male,Medicaid,South,Y
+P00767,65+,Male,Commercial PPO,West,N
+P00768,50-64,Female,Commercial PPO,West,Y
+P00769,0-17,Female,Commercial HMO,South,Y
+P00770,35-49,Female,Medicare,South,N
+P00771,65+,Female,Medicare,North,Y
+P00772,0-17,Male,Commercial PPO,Central,Y
+P00773,65+,Female,Medicare,East,Y
+P00774,50-64,Female,Medicaid,East,Y
+P00775,65+,Male,Medicaid,West,Y
+P00776,18-34,Female,Commercial HMO,Central,Y
+P00777,18-34,Male,Commercial PPO,North,N
+P00778,35-49,Female,Employer plan,South,Y
+P00779,18-34,Unknown,Commercial PPO,South,Y
+P00780,50-64,Male,Medicare,East,Y
+P00781,18-34,Male,Commercial PPO,East,Y
+P00782,35-49,Male,Medicare,West,Y
+P00783,35-49,Female,Medicare,South,Y
+P00784,50-64,Female,Commercial HMO,North,Y
+P00785,65+,Female,Medicare,Central,Y
+P00786,0-17,Female,Medicare,West,Y
+P00787,35-49,Female,Commercial HMO,Central,Y
+P00788,35-49,Male,Medicare,West,Y
+P00789,18-34,Male,Commercial PPO,East,Y
+P00790,35-49,Male,Commercial PPO,Central,Y
+P00791,35-49,Female,Medicare,East,Y
+P00792,18-34,Male,Commercial PPO,North,Y
+P00793,35-49,Female,Commercial PPO,North,Y
+P00794,0-17,Male,Medicare,West,Y
+P00795,65+,Male,Medicare,Central,Y
+P00796,0-17,Female,Commercial PPO,West,Y
+P00797,18-34,Male,Medicare,West,Y
+P00798,35-49,Male,Commercial PPO,North,Y
+P00799,50-64,Male,Commercial PPO,South,N
+P00800,65+,Male,Commercial PPO,East,Y
+P00801,50-64,Male,Commercial PPO,East,Y
+P00802,35-49,Male,Medicaid,North,Y
+P00803,50-64,Male,Medicare,North,Y
+P00804,50-64,Male,Medicare,North,Y
+P00805,50-64,Female,Employer plan,West,Y
+P00806,35-49,Unknown,Commercial PPO,Central,Y
+P00807,65+,Male,Commercial PPO,East,Y
+P00808,65+,Male,Commercial PPO,Central,Y
+P00809,18-34,Female,,Central,Y
+P00810,65+,Male,Medicaid,West,N
+P00811,0-17,Female,Employer plan,South,Y
+P00812,35-49,Female,Commercial PPO,South,Y
+P00813,65+,Female,Self-pay,Central,Y
+P00814,18-34,Female,Commercial HMO,South,Y
+P00815,18-34,Female,Self-pay,North,Y
+P00816,65+,Male,,East,Y
+P00817,35-49,Female,Employer plan,North,Y
+P00818,65+,Female,Employer plan,West,Y
+P00819,65+,Female,Medicaid,East,Y
+P00820,65+,Female,Commercial HMO,South,Y
+P00821,18-34,Female,Commercial HMO,North,Y
+P00822,18-34,Male,Self-pay,Central,Y
+P00823,0-17,Male,Medicaid,South,Y
+P00824,18-34,Female,Commercial PPO,East,Y
+P00825,65+,Male,Employer plan,West,Y
+P00826,35-49,Female,Commercial PPO,East,Y
+P00827,35-49,Male,Commercial HMO,West,Y
+P00828,0-17,Female,Commercial PPO,North,Y
+P00829,35-49,Male,Employer plan,East,Y
+P00830,65+,Female,Employer plan,South,Y
+P00831,18-34,Male,Medicare,East,Y
+P00832,35-49,Male,Self-pay,Central,Y
+P00833,65+,Female,Medicare,West,Y
+P00834,50-64,Male,Commercial PPO,North,Y
+P00835,50-64,Female,Commercial PPO,West,Y
+P00836,35-49,Female,Medicaid,North,Y
+P00837,65+,Unknown,Self-pay,Central,Y
+P00838,0-17,Female,Medicaid,Central,Y
+P00839,65+,Female,Commercial PPO,Central,Y
+P00840,50-64,Male,Medicare,South,Y
+P00841,18-34,Female,Commercial HMO,East,Y
+P00842,50-64,Female,Employer plan,South,Y
+P00843,18-34,Female,Commercial PPO,East,Y
+P00844,65+,Male,Medicare,West,Y
+P00845,65+,Female,Commercial PPO,Central,Y
+P00846,0-17,Male,Self-pay,South,Y
+P00847,35-49,Female,Medicaid,West,Y
+P00848,18-34,Female,Commercial PPO,East,Y
+P00849,35-49,Male,Medicaid,South,Y
+P00850,50-64,Female,Employer plan,South,Y
+P00851,18-34,Female,Medicare,East,Y
+P00852,35-49,Unknown,Commercial PPO,East,Y
+P00853,35-49,Male,Commercial PPO,East,Y
+P00854,65+,Male,Medicaid,South,N
+P00855,35-49,Male,Medicaid,South,Y
+P00856,50-64,Female,Medicare,West,Y
+P00857,65+,Female,Medicare,West,Y
+P00858,18-34,Male,Commercial PPO,Central,Y
+P00859,18-34,Female,Commercial HMO,East,Y
+P00860,18-34,Male,Commercial PPO,North,Y
+P00861,35-49,Male,Commercial PPO,East,Y
+P00862,50-64,Female,Commercial PPO,North,Y
+P00863,50-64,Male,Employer plan,South,Y
+P00864,35-49,Female,Commercial PPO,East,Y
+P00865,18-34,Male,Medicare,West,Y
+P00866,35-49,Male,Medicare,East,Y
+P00867,35-49,Female,Medicare,West,Y
+P00868,50-64,Male,Medicare,South,Y
+P00869,65+,Male,Medicaid,West,Y
+P00870,18-34,Female,Employer plan,North,Y
+P00871,65+,Male,Commercial HMO,Central,Y
+P00872,50-64,Female,Commercial HMO,Central,Y
+P00873,18-34,Female,Employer plan,West,Y
+P00874,35-49,Female,Medicare,East,Y
+P00875,35-49,Female,Employer plan,South,Y
+P00876,65+,Male,Commercial PPO,Central,Y
+P00877,35-49,Male,Medicaid,Central,Y
+P00878,18-34,Female,Medicaid,West,Y
+P00879,35-49,Male,Employer plan,South,Y
+P00880,65+,Female,Medicare,West,Y
+P00881,35-49,Female,Medicaid,South,Y
+P00882,35-49,Male,Employer plan,Central,Y
+P00883,35-49,Female,Self-pay,South,Y
+P00884,65+,Male,Commercial PPO,North,Y
+P00885,35-49,Male,Commercial HMO,North,Y
+P00886,18-34,Female,Medicaid,East,Y
+P00887,18-34,Female,Medicare,North,Y
+P00888,18-34,Female,Medicaid,West,Y
+P00889,18-34,Female,Medicare,South,Y
+P00890,65+,Male,Self-pay,East,Y
+P00891,35-49,Male,Self-pay,West,Y
+P00892,50-64,Male,Commercial PPO,Central,Y
+P00893,65+,Male,Medicare,Central,N
+P00894,50-64,Female,Commercial PPO,East,Y
+P00895,50-64,Female,Medicaid,East,Y
+P00896,0-17,Male,Medicare,North,Y
+P00897,50-64,Male,Medicare,North,Y
+P00898,65+,Male,Commercial PPO,West,Y
+P00899,35-49,Female,Medicaid,North,Y
+P00900,65+,Female,Medicare,West,Y
+P00901,50-64,Male,Medicaid,North,Y
+P00902,65+,Female,Medicare,South,Y
+P00903,18-34,Male,Commercial HMO,West,Y
+P00904,18-34,Female,Commercial PPO,South,Y
+P00905,18-34,Female,Employer plan,South,Y
+P00906,35-49,Female,Employer plan,West,Y
+P00907,18-34,Male,Commercial HMO,South,Y
+P00908,35-49,Female,Medicare,South,Y
+P00909,50-64,Male,Medicaid,East,Y
+P00910,35-49,Female,Medicare,South,Y
+P00911,50-64,Male,Commercial PPO,Central,N
+P00912,50-64,Unknown,Employer plan,West,Y
+P00913,50-64,Male,Commercial HMO,North,Y
+P00914,18-34,Male,Medicare,West,Y
+P00915,65+,Male,Self-pay,Central,Y
+P00916,18-34,Male,Medicare,South,Y
+P00917,50-64,Male,Self-pay,South,Y
+P00918,65+,Female,Commercial PPO,East,Y
+P00919,18-34,Female,Commercial PPO,West,Y
+P00920,65+,Female,Employer plan,North,Y
+P00921,18-34,Male,Medicare,East,Y
+P00922,50-64,Female,Medicaid,North,Y
+P00923,0-17,Male,Medicare,South,Y
+P00924,18-34,Female,Self-pay,South,Y
+P00925,18-34,Female,Commercial HMO,South,N
+P00926,18-34,Female,Commercial HMO,South,Y
+P00927,35-49,Female,Employer plan,East,Y
+P00928,35-49,Male,Commercial PPO,Central,Y
+P00929,35-49,Female,Commercial PPO,East,Y
+P00930,35-49,Female,Commercial PPO,South,Y
+P00931,18-34,Female,Commercial PPO,South,N
+P00932,50-64,Male,Commercial HMO,West,Y
+P00933,50-64,Male,Medicare,South,Y
+P00934,50-64,Male,Medicare,Central,Y
+P00935,65+,Male,Medicare,East,Y
+P00936,50-64,Male,Commercial HMO,Central,Y
+P00937,18-34,Male,Self-pay,West,Y
+P00938,50-64,Female,Medicare,North,Y
+P00939,35-49,Female,Self-pay,West,Y
+P00940,50-64,Female,Commercial HMO,East,Y
+P00941,50-64,Male,Medicaid,East,Y
+P00942,35-49,Male,Commercial PPO,Central,Y
+P00943,35-49,Male,Commercial PPO,West,Y
+P00944,50-64,Male,Commercial PPO,East,Y
+P00945,0-17,Female,Medicaid,Central,Y
+P00946,0-17,Male,Medicare,Central,Y
+P00947,50-64,Female,Medicaid,East,Y
+P00948,50-64,Male,Medicaid,West,Y
+P00949,35-49,Female,Medicare,North,Y
+P00950,65+,Male,Medicaid,North,Y
+P00951,18-34,Female,Commercial HMO,South,Y
+P00952,50-64,,Commercial PPO,East,Y
+P00953,50-64,Female,Employer plan,East,Y
+P00954,50-64,Male,Medicaid,North,Y
+P00955,50-64,Female,Commercial PPO,West,Y
+P00956,18-34,Female,Commercial HMO,East,Y
+P00957,50-64,Male,Medicaid,Central,Y
+P00958,50-64,Female,Medicare,West,Y
+P00959,18-34,Female,Medicare,West,Y
+P00960,0-17,Female,Commercial PPO,North,Y
+P00961,65+,Male,Medicare,West,Y
+P00962,18-34,Male,Commercial PPO,East,Y
+P00963,35-49,Male,Medicaid,East,Y
+P00964,18-34,Female,Commercial HMO,Central,Y
+P00965,18-34,Female,Commercial HMO,Central,Y
+P00966,18-34,Male,Commercial PPO,North,Y
+P00967,35-49,Male,Medicare,South,Y
+P00968,18-34,Male,Medicare,North,Y
+P00969,50-64,Female,Commercial HMO,North,Y
+P00970,50-64,Female,Commercial HMO,North,Y
+P00971,18-34,Male,Commercial HMO,Central,Y
+P00972,18-34,Female,Employer plan,West,Y
+P00973,35-49,Male,Medicaid,South,Y
+P00974,35-49,Female,Self-pay,Central,Y
+P00975,35-49,Female,Commercial HMO,East,Y
+P00976,0-17,Female,,West,Y
+P00977,18-34,Female,Medicaid,East,Y
+P00978,35-49,Male,Self-pay,West,Y
+P00979,18-34,Male,Medicare,West,Y
+P00980,18-34,Male,Commercial HMO,East,Y
+P00981,0-17,Female,Employer plan,Central,Y
+P00982,50-64,Female,Commercial PPO,Central,Y
+P00983,18-34,Female,Employer plan,West,Y
+P00984,50-64,Female,Commercial PPO,South,Y
+P00985,50-64,Female,,North,Y
+P00986,0-17,Male,Employer plan,West,Y
+P00987,18-34,Male,Employer plan,South,Y
+P00988,18-34,Male,Employer plan,North,Y
+P00989,50-64,Female,Medicare,North,Y
+P00990,65+,Female,Commercial PPO,East,Y
+P00991,35-49,Male,Self-pay,East,Y
+P00992,0-17,Female,Medicaid,West,Y
+P00993,35-49,Female,Commercial PPO,South,Y
+P00994,35-49,Male,Commercial HMO,Central,Y
+P00995,50-64,Female,Medicaid,Central,Y
+P00996,50-64,Female,Commercial PPO,West,Y
+P00997,18-34,Female,Self-pay,Central,Y
+P00998,65+,Female,Medicaid,East,Y
+P00999,18-34,Male,Employer plan,West,Y
+P01000,35-49,Male,Self-pay,West,Y
+P01001,50-64,Female,Self-pay,East,Y
+P01002,0-17,Female,Self-pay,East,Y
+P01003,0-17,Female,Employer plan,Central,Y
+P01004,65+,Female,Employer plan,West,Y
+P01005,50-64,Male,Commercial PPO,East,Y
+P01006,35-49,Male,Commercial PPO,East,Y
+P01007,50-64,Male,Commercial HMO,West,Y
+P01008,35-49,Male,Medicare,East,Y
+P01009,18-34,Female,Commercial HMO,East,Y
+P01010,50-64,Female,Medicare,East,Y
+P01011,18-34,Female,Medicare,South,Y
+P01012,35-49,Female,Medicaid,North,Y
+P01013,0-17,Female,Employer plan,West,Y
+P01014,65+,Female,Self-pay,South,Y
+P01015,65+,Female,Commercial PPO,North,Y
+P01016,18-34,Male,Commercial PPO,South,Y
+P01017,65+,Female,Commercial HMO,Central,Y
+P01018,0-17,Male,Commercial HMO,East,Y
+P01019,50-64,Female,Commercial PPO,Central,Y
+P01020,18-34,Male,Commercial PPO,North,Y
+P01021,65+,Female,Medicaid,North,Y
+P01022,0-17,Female,Commercial HMO,East,Y
+P01023,65+,Female,Commercial PPO,East,Y
+P01024,18-34,Male,Medicaid,South,Y
+P01025,35-49,Female,Commercial HMO,North,Y
+P01026,18-34,Male,Medicare,West,Y
+P01027,35-49,Female,Commercial PPO,South,Y
+P01028,0-17,Male,Commercial HMO,North,Y
+P01029,35-49,Male,Medicare,East,Y
+P01030,35-49,Female,Medicaid,East,Y
+P01031,35-49,Male,Self-pay,West,Y
+P01032,65+,Female,Commercial PPO,East,Y
+P01033,35-49,Male,Commercial HMO,West,Y
+P01034,35-49,Female,Medicare,East,Y
+P01035,18-34,Female,Commercial HMO,North,Y
+P01036,18-34,Male,Commercial PPO,West,Y
+P01037,50-64,Male,Commercial HMO,South,Y
+P01038,65+,Female,Medicaid,East,Y
+P01039,35-49,Female,Commercial PPO,North,Y
+P01040,18-34,Male,Medicaid,Central,Y
+P01041,35-49,Male,Self-pay,East,Y
+P01042,65+,Female,Self-pay,East,Y
+P01043,18-34,Male,Self-pay,East,Y
+P01044,50-64,Female,Medicare,East,N
+P01045,50-64,Male,Employer plan,West,Y
+P01046,50-64,Female,Employer plan,North,Y
+P01047,18-34,Male,Commercial HMO,Central,Y
+P01048,35-49,Male,Employer plan,East,Y
+P01049,18-34,Female,Medicare,Central,Y
+P01050,50-64,Female,Commercial HMO,East,Y
+P01051,0-17,Male,Medicare,Central,Y
+P01052,0-17,Female,Medicare,Central,Y
+P01053,50-64,Male,Commercial PPO,East,Y
+P01054,50-64,Unknown,Employer plan,West,Y
+P01055,18-34,Female,Commercial HMO,North,Y
+P01056,0-17,Male,Employer plan,Central,Y
+P01057,35-49,Male,Medicare,East,Y
+P01058,18-34,Female,Medicare,North,Y
+P01059,65+,Male,Employer plan,South,Y
+P01060,65+,Female,Commercial HMO,East,Y
+P01061,50-64,Male,Commercial HMO,West,Y
+P01062,65+,Female,Self-pay,East,Y
+P01063,50-64,Male,Commercial HMO,East,Y
+P01064,35-49,Female,Commercial HMO,West,Y
+P01065,50-64,Female,Commercial PPO,North,Y
+P01066,50-64,Female,Medicare,East,Y
+P01067,0-17,Male,Commercial PPO,Central,Y
+P01068,18-34,Female,Commercial PPO,South,N
+P01069,18-34,Male,Commercial PPO,South,Y
+P01070,65+,Male,Commercial PPO,South,Y
+P01071,35-49,Male,Commercial HMO,North,Y
+P01072,18-34,Female,Self-pay,South,Y
+P01073,50-64,Female,Self-pay,North,Y
+P01074,50-64,Female,Employer plan,West,Y
+P01075,35-49,Male,Self-pay,East,Y
+P01076,35-49,Male,Commercial PPO,West,Y
+P01077,35-49,Female,Commercial PPO,North,Y
+P01078,18-34,Female,Employer plan,South,Y
+P01079,65+,Male,Medicaid,North,Y
+P01080,50-64,Male,Medicaid,Central,Y
+P01081,0-17,Female,Employer plan,Central,Y
+P01082,35-49,Male,Commercial PPO,West,Y
+P01083,18-34,Female,Medicare,South,Y
+P01084,18-34,Male,Commercial PPO,Central,N
+P01085,50-64,Male,Employer plan,West,Y
+P01086,35-49,Female,Commercial PPO,South,Y
+P01087,65+,Female,Medicaid,East,Y
+P01088,18-34,Female,Employer plan,East,Y
+P01089,35-49,Female,Commercial PPO,East,Y
+P01090,65+,Female,Medicaid,East,Y
+P01091,18-34,Female,Medicare,West,Y
+P01092,18-34,Male,Employer plan,South,Y
+P01093,65+,Male,Commercial HMO,North,Y
+P01094,0-17,Male,Medicare,South,Y
+P01095,50-64,Male,Employer plan,North,Y
+P01096,50-64,Female,Commercial PPO,North,Y
+P01097,18-34,Male,Medicaid,Central,Y
+P01098,0-17,Female,Medicare,Central,Y
+P01099,50-64,Female,Medicaid,North,Y
+P01100,18-34,Male,Commercial PPO,Central,Y
+P01101,50-64,Male,Medicaid,South,N
+P01102,0-17,Female,Medicare,East,Y
+P01103,65+,Female,Commercial PPO,North,Y
+P01104,65+,Female,Self-pay,North,Y
+P01105,65+,Female,Employer plan,North,Y
+P01106,50-64,Female,Medicare,East,Y
+P01107,50-64,Female,Employer plan,North,Y
+P01108,65+,Male,Employer plan,South,Y
+P01109,50-64,Female,Commercial PPO,North,Y
+P01110,18-34,Female,Medicare,North,Y
+P01111,35-49,Female,Commercial PPO,North,Y
+P01112,0-17,Male,Self-pay,West,Y
+P01113,0-17,Male,Medicare,West,Y
+P01114,50-64,Male,Self-pay,North,Y
+P01115,50-64,Male,Employer plan,East,Y
+P01116,50-64,Female,Medicare,Central,Y
+P01117,0-17,Female,Medicaid,South,Y
+P01118,35-49,Male,Commercial PPO,North,Y
+P01119,50-64,Male,Commercial HMO,South,Y
+P01120,35-49,Male,Medicare,West,Y
+P01121,18-34,Male,Employer plan,North,Y
+P01122,35-49,Unknown,Employer plan,West,Y
+P01123,35-49,Female,Commercial PPO,East,Y
+P01124,18-34,Male,Commercial PPO,North,Y
+P01125,50-64,Female,Employer plan,West,Y
+P01126,35-49,Male,Self-pay,Central,Y
+P01127,50-64,Female,Employer plan,North,Y
+P01128,18-34,Male,Medicaid,North,Y
+P01129,50-64,Female,Employer plan,West,Y
+P01130,65+,Female,Commercial PPO,North,Y
+P01131,0-17,Male,Medicare,East,Y
+P01132,35-49,Female,Commercial PPO,West,Y
+P01133,50-64,Female,Commercial HMO,North,Y
+P01134,0-17,Female,Medicare,East,Y
+P01135,50-64,Male,Employer plan,West,Y
+P01136,35-49,Female,Commercial HMO,Central,Y
+P01137,35-49,Female,Commercial PPO,Central,Y
+P01138,35-49,Male,Medicare,West,Y
+P01139,65+,,Self-pay,South,Y
+P01140,65+,Female,Commercial HMO,Central,Y
+P01141,50-64,Female,Commercial HMO,Central,Y
+P01142,18-34,Male,Medicare,Central,Y
+P01143,65+,Male,Commercial PPO,South,Y
+P01144,18-34,Male,Commercial PPO,East,Y
+P01145,35-49,Female,Commercial HMO,South,Y
+P01146,35-49,Male,Medicare,West,Y
+P01147,65+,Female,Medicare,West,Y
+P01148,65+,Male,Employer plan,West,Y
+P01149,35-49,Male,Commercial PPO,East,Y
+P01150,35-49,Female,Medicaid,North,Y
+P01151,50-64,Female,Commercial PPO,West,Y
+P01152,35-49,Male,Employer plan,Central,Y
+P01153,65+,Male,Medicaid,West,Y
+P01154,35-49,Female,Medicare,East,Y
+P01155,0-17,Female,Medicare,Central,Y
+P01156,65+,Female,Medicaid,South,Y
+P01157,35-49,Female,Commercial PPO,East,Y
+P01158,0-17,Male,Employer plan,South,Y
+P01159,35-49,Male,Commercial PPO,West,Y
+P01160,0-17,Male,Commercial HMO,Central,Y
+P01161,0-17,Female,Commercial HMO,South,Y
+P01162,18-34,Unknown,Medicaid,East,Y
+P01163,18-34,Male,Medicaid,East,Y
+P01164,35-49,Female,Employer plan,West,Y
+P01165,50-64,Male,Employer plan,South,Y
+P01166,35-49,Male,Self-pay,South,Y
+P01167,65+,Male,Commercial HMO,East,Y
+P01168,65+,Male,Commercial PPO,North,Y
+P01169,50-64,Female,Medicare,East,Y
+P01170,65+,Female,Commercial HMO,West,Y
+P01171,50-64,Female,Commercial HMO,South,Y
+P01172,0-17,Female,Self-pay,East,Y
+P01173,35-49,Male,Medicare,West,Y
+P01174,35-49,Male,Commercial PPO,Central,Y
+P01175,0-17,Male,Commercial HMO,Central,Y
+P01176,18-34,Female,Medicare,East,Y
+P01177,0-17,Female,Employer plan,North,Y
+P01178,65+,Female,Employer plan,West,Y
+P01179,35-49,Female,Medicare,West,Y
+P01180,35-49,Male,Medicare,East,Y
+P01181,0-17,Male,Commercial PPO,East,Y
+P01182,18-34,Female,Medicaid,Central,Y
+P01183,65+,Female,Commercial PPO,Central,Y
+P01184,65+,Female,Employer plan,Central,Y
+P01185,18-34,Male,Commercial HMO,West,Y
+P01186,35-49,Male,Self-pay,West,Y
+P01187,35-49,Female,Commercial PPO,North,Y
+P01188,18-34,Male,Commercial HMO,West,N
+P01189,0-17,Male,Medicaid,East,Y
+P01190,65+,Female,Medicare,Central,Y
+P01191,18-34,Female,Commercial PPO,South,Y
+P01192,18-34,Female,Employer plan,Central,Y
+P01193,18-34,Female,Commercial PPO,North,Y
+P01194,0-17,Male,Medicare,North,Y
+P01195,35-49,Male,Commercial PPO,East,Y
+P01196,18-34,Female,Commercial HMO,Central,Y
+P01197,18-34,Male,Employer plan,South,Y
+P01198,18-34,Male,Commercial HMO,North,Y
+P01199,50-64,Male,Medicaid,East,Y
+P01200,65+,Female,Employer plan,North,Y
+P01201,35-49,Male,Commercial HMO,West,Y
+P01202,50-64,Female,Commercial PPO,North,Y
+P01203,18-34,Male,Self-pay,East,Y
+P01204,0-17,Male,Medicare,Central,Y
+P01205,0-17,Female,Commercial PPO,South,N
+P01206,65+,Female,Commercial HMO,West,Y
+P01207,65+,Male,Commercial PPO,West,Y
+P01208,50-64,Male,Commercial PPO,South,Y
+P01209,50-64,Female,Commercial HMO,Central,Y
+P01210,18-34,Male,Commercial HMO,West,Y
+P01211,50-64,Male,Self-pay,North,Y
+P01212,18-34,Female,Medicare,East,Y
+P01213,18-34,Female,Self-pay,Central,Y
+P01214,35-49,Female,Medicare,West,Y
+P01215,0-17,Female,Medicare,East,Y
+P01216,35-49,Male,Employer plan,West,Y
+P01217,35-49,Male,Commercial PPO,West,Y
+P01218,0-17,Female,Commercial PPO,South,Y
+P01219,0-17,Female,Medicare,North,Y
+P01220,0-17,Male,Employer plan,West,Y
+P01221,18-34,Male,Commercial PPO,West,Y
+P01222,0-17,Female,Medicare,South,Y
+P01223,50-64,Male,Commercial PPO,East,Y
+P01224,50-64,Female,Medicaid,Central,Y
+P01225,18-34,Female,Medicare,South,Y
+P01226,35-49,Female,Medicare,West,Y
+P01227,50-64,Female,Commercial PPO,South,Y
+P01228,0-17,Female,Commercial PPO,South,Y
+P01229,35-49,Female,Medicare,East,Y
+P01230,50-64,Female,Commercial HMO,South,Y
+P01231,65+,Female,Medicare,Central,Y
+P01232,50-64,Male,Commercial HMO,Central,Y
+P01233,0-17,Male,Medicaid,South,Y
+P01234,18-34,Male,Medicaid,Central,Y
+P01235,35-49,Female,Medicaid,West,Y
+P01236,18-34,Male,Medicaid,Central,Y
+P01237,18-34,Male,Commercial HMO,South,Y
+P01238,0-17,Male,,Central,Y
+P01239,50-64,Female,Commercial PPO,East,Y
+P01240,50-64,Female,Commercial PPO,South,Y
+P01241,0-17,Male,Commercial PPO,North,Y
+P01242,50-64,Female,Medicare,East,Y
+P01243,35-49,Female,Commercial HMO,West,Y
+P01244,65+,Male,Medicare,North,N
+P01245,50-64,Female,Medicaid,East,Y
+P01246,35-49,Female,Commercial PPO,North,Y
+P01247,50-64,Male,Commercial PPO,East,Y
+P01248,65+,Female,Commercial PPO,South,N
+P01249,18-34,Male,Self-pay,North,Y
+P01250,18-34,Female,Employer plan,North,Y
+P01251,35-49,Male,Self-pay,South,Y
+P01252,50-64,Female,Medicaid,South,Y
+P01253,50-64,Male,Self-pay,West,Y
+P01254,18-34,Male,Self-pay,South,Y
+P01255,0-17,Female,Employer plan,West,Y
+P01256,35-49,Female,Commercial PPO,Central,Y
+P01257,65+,Male,Commercial PPO,South,Y
+P01258,35-49,Male,Medicare,South,Y
+P01259,18-34,Female,Commercial HMO,South,N
+P01260,50-64,Male,Medicaid,East,Y
+P01261,50-64,Male,Medicaid,East,Y
+P01262,18-34,Male,Commercial HMO,East,Y
+P01263,50-64,Female,Commercial PPO,South,Y
+P01264,65+,Male,Employer plan,Central,Y
+P01265,18-34,Female,Commercial HMO,East,Y
+P01266,50-64,Female,Self-pay,North,Y
+P01267,65+,Male,Self-pay,East,Y
+P01268,50-64,Female,Medicare,West,Y
+P01269,18-34,Male,Commercial HMO,West,Y
+P01270,65+,Unknown,Commercial HMO,South,Y
+P01271,50-64,Male,Medicare,East,Y
+P01272,35-49,Male,Medicaid,South,Y
+P01273,0-17,Female,Commercial PPO,East,Y
+P01274,35-49,Female,Self-pay,East,Y
+P01275,18-34,Female,Medicare,South,Y
+P01276,0-17,Male,Medicaid,Central,Y
+P01277,50-64,Male,Commercial HMO,North,Y
+P01278,50-64,Male,Medicaid,Central,Y
+P01279,65+,Male,Medicare,South,Y
+P01280,65+,Female,Commercial PPO,East,Y
+P01281,35-49,Female,Employer plan,Central,Y
+P01282,18-34,Male,Employer plan,Central,Y
+P01283,35-49,Female,Medicare,South,Y
+P01284,65+,Female,Medicaid,West,Y
+P01285,50-64,Male,Medicare,North,Y
+P01286,35-49,Male,Commercial HMO,East,Y
+P01287,0-17,Female,Medicare,South,Y
+P01288,65+,Female,Medicare,West,Y
+P01289,0-17,Male,Medicaid,Central,Y
+P01290,35-49,Male,Commercial PPO,West,Y
+P01291,0-17,Female,Employer plan,South,Y
+P01292,0-17,Male,Medicare,East,Y
+P01293,35-49,Female,Employer plan,South,Y
+P01294,18-34,Male,Medicare,West,Y
+P01295,65+,Female,Medicaid,North,Y
+P01296,0-17,Female,Medicare,West,Y
+P01297,35-49,Female,Commercial PPO,West,Y
+P01298,65+,Female,Medicare,West,Y
+P01299,18-34,Female,Commercial PPO,Central,Y
+P01300,0-17,Male,Commercial HMO,North,Y
+P01301,35-49,Male,Medicaid,North,Y
+P01302,50-64,Female,Commercial PPO,North,Y
+P01303,0-17,Female,Employer plan,North,Y
+P01304,18-34,Female,Medicare,East,Y
+P01305,35-49,Female,Commercial PPO,East,Y
+P01306,35-49,Female,Medicaid,North,Y
+P01307,50-64,Male,Medicaid,East,Y
+P01308,65+,Female,Self-pay,South,Y
+P01309,50-64,Female,Medicaid,West,Y
+P01310,0-17,Female,Medicare,North,Y
+P01311,50-64,Male,Commercial PPO,Central,Y
+P01312,18-34,Female,Commercial HMO,South,Y
+P01313,18-34,Male,Commercial HMO,West,Y
+P01314,50-64,Male,Medicaid,Central,Y
+P01315,35-49,Female,Medicare,Central,Y
+P01316,18-34,Female,Medicare,Central,Y
+P01317,18-34,Male,Medicaid,Central,N
+P01318,50-64,Male,Medicare,East,Y
+P01319,18-34,Male,Commercial PPO,East,Y
+P01320,65+,Male,Medicare,South,Y
+P01321,35-49,Female,Medicare,West,Y
+P01322,0-17,Male,Commercial PPO,South,Y
+P01323,18-34,Female,Medicaid,North,Y
+P01324,50-64,Female,Commercial PPO,East,N
+P01325,18-34,Female,Medicaid,South,Y
+P01326,18-34,Male,Commercial PPO,West,Y
+P01327,18-34,Male,Medicaid,South,Y
+P01328,0-17,Male,Employer plan,East,Y
+P01329,50-64,Male,Medicaid,West,Y
+P01330,18-34,Male,Medicare,Central,Y
+P01331,35-49,Female,Self-pay,Central,Y
+P01332,35-49,Female,Medicare,East,Y
+P01333,50-64,Female,Commercial PPO,North,Y
+P01334,35-49,Male,Commercial PPO,Central,Y
+P01335,50-64,Female,Medicare,Central,Y
+P01336,65+,Male,Commercial PPO,West,Y
+P01337,35-49,Male,Medicare,North,Y
+P01338,35-49,Female,Medicaid,West,Y
+P01339,18-34,Female,Employer plan,East,Y
+P01340,35-49,Female,Self-pay,West,Y
+P01341,18-34,Female,Commercial HMO,East,Y
+P01342,18-34,Female,Commercial HMO,South,Y
+P01343,50-64,Female,,South,Y
+P01344,65+,Female,Commercial HMO,West,Y
+P01345,65+,Female,Medicare,West,Y
+P01346,18-34,Female,Commercial PPO,East,Y
+P01347,65+,Female,Employer plan,West,Y
+P01348,50-64,Male,Employer plan,Central,Y
+P01349,35-49,Female,Commercial PPO,North,Y
+P01350,65+,Female,Medicaid,West,Y
+P01351,65+,Male,Medicare,North,Y
+P01352,18-34,Female,Commercial PPO,East,Y
+P01353,18-34,Female,Commercial HMO,West,Y
+P01354,35-49,Female,Medicare,West,Y
+P01355,35-49,Female,Commercial PPO,Central,Y
+P01356,0-17,Female,Self-pay,South,Y
+P01357,35-49,Female,Medicare,East,Y
+P01358,50-64,Female,Employer plan,East,Y
+P01359,35-49,Female,Commercial HMO,North,Y
+P01360,35-49,Female,Self-pay,East,Y
+P01361,65+,Female,Commercial HMO,West,Y
+P01362,18-34,Female,Commercial PPO,West,Y
+P01363,35-49,Male,Medicare,Central,Y
+P01364,18-34,Male,Commercial PPO,West,Y
+P01365,18-34,Female,Medicaid,Central,Y
+P01366,18-34,Male,Commercial PPO,South,Y
+P01367,35-49,Female,Medicare,Central,Y
+P01368,50-64,Male,Self-pay,West,Y
+P01369,18-34,Female,Medicare,North,Y
+P01370,18-34,Female,Commercial PPO,East,Y
+P01371,18-34,Female,Commercial PPO,Central,Y
+P01372,50-64,Male,Medicaid,East,Y
+P01373,35-49,Male,Medicare,West,Y
+P01374,65+,Male,Medicare,East,Y
+P01375,50-64,Male,Commercial HMO,Central,Y
+P01376,18-34,Male,Commercial PPO,South,Y
+P01377,50-64,Female,Commercial PPO,West,N
+P01378,35-49,Male,Medicaid,South,Y
+P01379,35-49,Male,Medicare,Central,Y
+P01380,35-49,Male,Commercial PPO,West,Y
+P01381,0-17,Male,Medicaid,West,Y
+P01382,35-49,Male,Commercial PPO,South,Y
+P01383,50-64,Female,Medicare,East,Y
+P01384,65+,Female,Medicare,East,Y
+P01385,65+,Female,Commercial PPO,North,Y
+P01386,65+,Female,Medicaid,East,Y
+P01387,35-49,Male,Commercial PPO,East,Y
+P01388,65+,Female,Self-pay,North,Y
+P01389,18-34,Male,Employer plan,East,Y
+P01390,35-49,Male,Medicare,West,Y
+P01391,0-17,Female,Commercial HMO,Central,Y
+P01392,18-34,Male,Commercial PPO,North,Y
+P01393,18-34,Female,Medicaid,South,Y
+P01394,35-49,Female,Medicare,Central,Y
+P01395,50-64,Male,Commercial PPO,South,Y
+P01396,18-34,Female,Medicare,North,Y
+P01397,35-49,Male,Medicare,North,Y
+P01398,18-34,Female,Commercial HMO,West,Y
+P01399,0-17,Male,Commercial HMO,South,Y
+P01400,50-64,Male,Medicaid,South,Y
+P01401,0-17,Male,Medicaid,West,Y
+P01402,50-64,Male,Medicaid,North,Y
+P01403,35-49,,Self-pay,East,Y
+P01404,18-34,Female,Commercial PPO,Central,Y
+P01405,18-34,Male,Commercial HMO,Central,Y
+P01406,18-34,Female,Commercial PPO,West,Y
+P01407,50-64,Female,Self-pay,East,Y
+P01408,50-64,Male,Employer plan,West,Y
+P01409,0-17,Female,Commercial PPO,West,Y
+P01410,0-17,Male,Commercial PPO,South,Y
+P01411,35-49,Male,Commercial HMO,East,Y
+P01412,35-49,Male,Medicare,West,Y
+P01413,50-64,Female,Commercial PPO,South,Y
+P01414,50-64,Female,Medicare,West,Y
+P01415,35-49,Male,Employer plan,North,Y
+P01416,18-34,Female,Commercial PPO,Central,Y
+P01417,65+,Male,Employer plan,South,Y
+P01418,65+,Female,Medicare,North,Y
+P01419,65+,Female,Commercial PPO,South,Y
+P01420,35-49,Female,Medicaid,North,Y
+P01421,35-49,Female,Commercial PPO,Central,Y
+P01422,65+,Male,Commercial HMO,Central,Y
+P01423,18-34,Male,Commercial PPO,East,Y
+P01424,35-49,Male,Medicaid,North,Y
+P01425,0-17,Female,Employer plan,South,Y
+P01426,18-34,Male,Commercial HMO,West,Y
+P01427,35-49,Male,Medicare,South,Y
+P01428,18-34,Female,Medicare,Central,Y
+P01429,50-64,Female,Commercial PPO,South,Y
+P01430,50-64,Female,Medicare,North,Y
+P01431,65+,Female,Medicare,East,Y
+P01432,65+,Female,Medicare,East,Y
+P01433,35-49,Female,Medicare,East,Y
+P01434,35-49,Female,Commercial PPO,West,Y
+P01435,50-64,Female,Employer plan,West,Y
+P01436,50-64,Female,Commercial PPO,South,Y
+P01437,65+,Male,Medicare,West,Y
+P01438,50-64,Male,Commercial PPO,North,Y
+P01439,65+,Male,Commercial HMO,West,Y
+P01440,50-64,Male,Commercial HMO,West,Y
+P01441,18-34,Female,Medicare,Central,N
+P01442,35-49,Male,Medicare,South,Y
+P01443,18-34,Male,Employer plan,South,Y
+P01444,35-49,Female,Medicaid,East,Y
+P01445,35-49,Male,Employer plan,Central,Y
+P01446,18-34,Male,Employer plan,South,Y
+P01447,65+,Female,Commercial PPO,North,Y
+P01448,50-64,Female,Medicare,North,Y
+P01449,65+,Female,Medicaid,South,Y
+P01450,50-64,Male,Medicaid,Central,Y
+P01451,50-64,Female,Medicare,East,Y
+P01452,18-34,Female,Commercial PPO,South,Y
+P01453,18-34,Male,Commercial HMO,South,Y
+P01454,35-49,Male,Self-pay,West,Y
+P01455,50-64,Male,Commercial PPO,North,Y
+P01456,18-34,Female,Medicare,Central,N
+P01457,65+,Female,Medicaid,South,Y
+P01458,18-34,Female,Employer plan,West,Y
+P01459,35-49,Female,Medicare,Central,Y
+P01460,65+,Male,Medicare,West,Y
+P01461,18-34,Female,Commercial PPO,West,Y
+P01462,65+,Male,Medicare,West,Y
+P01463,50-64,Female,,South,Y
+P01464,18-34,Male,Employer plan,North,Y
+P01465,65+,Unknown,Medicare,North,Y
+P01466,35-49,Female,Medicare,East,Y
+P01467,65+,Unknown,Medicaid,Central,Y
+P01468,50-64,Male,Self-pay,North,Y
+P01469,35-49,Female,Commercial PPO,East,Y
+P01470,50-64,Male,Self-pay,North,Y
+P01471,50-64,Female,Commercial PPO,South,Y
+P01472,0-17,Male,Commercial PPO,Central,Y
+P01473,35-49,Male,Commercial HMO,North,Y
+P01474,35-49,Male,Employer plan,Central,N
+P01475,35-49,Female,Medicare,South,Y
+P01476,35-49,Female,Medicare,East,Y
+P01477,50-64,Female,Medicaid,West,Y
+P01478,35-49,Male,Self-pay,Central,Y
+P01479,65+,Male,Medicaid,North,Y
+P01480,35-49,Male,Employer plan,North,Y
+P01481,18-34,Male,Commercial HMO,South,Y
+P01482,50-64,Female,Medicare,South,Y
+P01483,35-49,Male,Medicare,Central,Y
+P01484,65+,Male,Commercial HMO,East,Y
+P01485,50-64,Male,Commercial PPO,South,Y
+P01486,50-64,Male,Commercial HMO,North,Y
+P01487,35-49,Female,Medicaid,South,Y
+P01488,35-49,Male,Commercial HMO,North,Y
+P01489,35-49,Female,,East,Y
+P01490,50-64,Male,Medicaid,North,Y
+P01491,65+,Male,Commercial PPO,North,N
+P01492,35-49,Female,Medicare,South,Y
+P01493,18-34,Male,Medicare,South,Y
+P01494,0-17,Female,Commercial HMO,North,Y
+P01495,18-34,Male,Commercial PPO,West,Y
+P01496,35-49,Female,Medicaid,North,Y
+P01497,35-49,Female,Medicaid,East,Y
+P01498,35-49,Female,Medicare,South,Y
+P01499,35-49,Male,Medicare,North,Y
+P01500,18-34,Male,Medicaid,West,Y

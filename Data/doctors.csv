@@ -1,0 +1,61 @@
+﻿doctor_id,department_id,specialty,employment_type,start_date,active_flag
+DR001,D001,Family Medicine,Full-time,2019-07-22,Y
+DR002,D001,Family Medicine,Full-time,2022-06-14,Y
+DR003,D001,Family Medicine,Full-time,2018-01-02,Y
+DR004,D001,Family Medicine,Full-time,2021-06-29,Y
+DR005,D001,Family Medicine,Full-time,2020-09-14,Y
+DR006,D001,Family Medicine,Full-time,2024-04-03,Y
+DR007,D002,Cardiology,Full-time,2022-08-03,Y
+DR008,D002,Cardiology,Contract,2024-10-04,Y
+DR009,D002,Cardiology,Part-time,2021-03-06,Y
+DR010,D002,Cardiology,Full-time,2019-06-15,Y
+DR011,D002,Cardiology,Full-time,2023-12-13,Y
+DR012,D002,Cardiology,Full-time,2022-07-26,Y
+DR013,D003,Orthopedics,Full-time,2021-05-07,Y
+DR014,D003,Orthopedics,Full-time,2020-06-15,Y
+DR015,D003,Orthopedics,Full-time,2022-11-20,Y
+DR016,D003,Orthopedics,Full-time,2020-08-14,Y
+DR017,D003,Orthopedics,Full-time,2020-10-17,Y
+DR018,D003,Orthopedics,Part-time,2021-03-09,Y
+DR019,D004,Pediatrics,Full-time,2020-08-09,Y
+DR020,D004,Pediatrics,Full-time,2025-01-12,Y
+DR021,D004,Pediatrics,Contract,2022-05-12,Y
+DR022,D004,Pediatrics,Contract,2022-03-31,Y
+DR023,D004,Pediatrics,Full-time,2017-08-19,Y
+DR024,D004,Pediatrics,Full-time,2019-04-18,Y
+DR025,D005,Neurology,Full-time,2019-07-07,Y
+DR026,D005,Neurology,Full-time,2019-09-10,Y
+DR027,D005,Neurology,Part-time,2021-10-08,Y
+DR028,D005,Neurology,Full-time,2018-04-05,Y
+DR029,D005,Neurology,Full-time,2024-01-19,Y
+DR030,D005,Neurology,Full-time,2024-07-08,Y
+DR031,D006,Dermatology,Full-time,2019-07-05,Y
+DR032,D006,Dermatology,Full-time,2024-07-19,Y
+DR033,D006,Dermatology,Full-time,2018-11-05,Y
+DR034,D006,Dermatology,Full-time,2025-01-25,Y
+DR035,D006,Dermatology,Full-time,2023-10-14,Y
+DR036,D006,Dermatology,Full-time,2020-12-27,Y
+DR037,D007,Radiology,Part-time,2023-08-28,Y
+DR038,D007,Radiology,Full-time,2019-11-01,Y
+DR039,D007,Radiology,Full-time,2025-01-19,Y
+DR040,D007,Radiology,Full-time,2017-11-29,Y
+DR041,D007,Radiology,Full-time,2020-04-28,Y
+DR042,D007,Radiology,Full-time,2022-11-24,Y
+DR043,D008,Physical Therapy,Full-time,2023-05-21,Y
+DR044,D008,Physical Therapy,Full-time,2023-05-19,Y
+DR045,D008,Physical Therapy,Full-time,2022-08-19,Y
+DR046,D008,Physical Therapy,Part-time,2018-03-28,Y
+DR047,D008,Physical Therapy,Part-time,2020-12-13,Y
+DR048,D008,Physical Therapy,Contract,2024-04-11,Y
+DR049,D009,Women's Health,Part-time,2019-01-27,Y
+DR050,D009,Women's Health,Full-time,2021-05-21,Y
+DR051,D009,Women's Health,Full-time,2019-06-05,Y
+DR052,D009,Women's Health,Full-time,2020-03-17,Y
+DR053,D009,Women's Health,Full-time,2024-03-03,Y
+DR054,D009,Women's Health,Full-time,2021-11-20,Y
+DR055,D010,Urgent Care,Contract,2021-01-26,Y
+DR056,D010,Urgent Care,Full-time,2021-04-17,Y
+DR057,D010,Urgent Care,Full-time,2021-10-26,Y
+DR058,D010,Urgent Care,Contract,2022-10-21,Y
+DR059,D010,Urgent Care,Full-time,2017-11-18,Y
+DR060,D010,Urgent Care,Part-time,2020-07-26,Y
